@@ -53,9 +53,7 @@ adaptabilidad, comunicación efectiva.
 **Habilidades tecnológicas utilizadas:**  Testing Manual, Pruebas de regresión, Informes de errores, Google Sheets, Análisis de requisitos.
 
 Prueba proyecto: https://github.com/angellytoro/Portafolio-Profesional/blob/1805de1201b8819ec0a437f0a9bc3140138cbe7e/proyecto%201.png 
-                 
-
-
+                https://github.com/angellytoro/Portafolio-Profesional/blob/9d5b89ecf4b7772856192a5d64230448af49cb00/Proyecto%201%20(2).png
 
 
 **Diseño de pruebas y Análisis de requisitos - Urban Routes**       
