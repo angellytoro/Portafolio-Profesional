@@ -52,6 +52,8 @@ adaptabilidad, comunicación efectiva.
 
 **Habilidades tecnológicas utilizadas:**  Testing Manual, Pruebas de regresión, Informes de errores, Google Sheets, Análisis de requisitos.
 
+Prueba proyecto: https://github.com/angellytoro/Portafolio-Profesional/blob/1805de1201b8819ec0a437f0a9bc3140138cbe7e/proyecto%201.png 
+                 
 
 
 
