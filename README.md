@@ -67,8 +67,9 @@ adaptabilidad, comunicación efectiva.
 
 **Habilidades tecnológicas utilizadas:**  Diseños de pruebas, partición de clases de equivalencia, análisis de valores límite, Google Sheets, modelado de flujos.
 
-
-
+**Prueba proyecto:** 
+##### https://github.com/angellytoro/Portafolio-Profesional/blob/8f39368d819f77d15e5ae1d9fe6f5b025d5ea67f/proyecto%202.png
+##### https://github.com/angellytoro/Portafolio-Profesional/blob/8f39368d819f77d15e5ae1d9fe6f5b025d5ea67f/proyecto%202%20(2).png
 
 
 
@@ -82,9 +83,10 @@ adaptabilidad, comunicación efectiva.
 
 **Habilidades tecnológicas utilizadas:**  Pruebas de UI, Pruebas de Cross-Browser, Jira y Google Sheets.
 
-
-
-
+**Prueba proyecto:** 
+##### https://github.com/angellytoro/Portafolio-Profesional/blob/8f39368d819f77d15e5ae1d9fe6f5b025d5ea67f/proyecto%203.png
+##### https://github.com/angellytoro/Portafolio-Profesional/blob/8f39368d819f77d15e5ae1d9fe6f5b025d5ea67f/proyecto%203%20(2).png
+##### https://github.com/angellytoro/Portafolio-Profesional/blob/8f39368d819f77d15e5ae1d9fe6f5b025d5ea67f/proyecto%203%20(3).png
 
 
 **Pruebas de API – Urban Grocers**    
@@ -98,9 +100,11 @@ adaptabilidad, comunicación efectiva.
 
 **Habilidades tecnológicas utilizadas:**  API Testing, Postman, HTTP, Jira
 
-
-
-
+**Prueba proyecto:** 
+##### https://github.com/angellytoro/Portafolio-Profesional/blob/8f39368d819f77d15e5ae1d9fe6f5b025d5ea67f/proyecto%204.png
+##### https://github.com/angellytoro/Portafolio-Profesional/blob/8f39368d819f77d15e5ae1d9fe6f5b025d5ea67f/proyecto%204%20(2).png
+##### https://github.com/angellytoro/Portafolio-Profesional/blob/8f39368d819f77d15e5ae1d9fe6f5b025d5ea67f/proyecto%204%20(3).png
+##### https://github.com/angellytoro/Portafolio-Profesional/blob/8f39368d819f77d15e5ae1d9fe6f5b025d5ea67f/proyecto%204%20(4).png
 
 
 ### Educación 
