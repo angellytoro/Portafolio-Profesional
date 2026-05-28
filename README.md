@@ -52,10 +52,8 @@ adaptabilidad, comunicación efectiva.
 
 **Habilidades tecnológicas utilizadas:**  Testing Manual, Pruebas de regresión, Informes de errores, Google Sheets, Análisis de requisitos.
 
-[(<img width="1354" height="624" alt="image" src="https://github.com/user-attachments/assets/801d0206-53ef-4e3b-8102-c9c80e4953af" />)]
-[(<img width="1114" height="605" alt="image" src="https://github.com/user-attachments/assets/3b573a2f-4e98-4e05-bfaa-f46c0598c822" />)]
 
-[![Prueba Proyecto](<https://www.notion.so/Portafolio-profesional-2f417ca468d78051944cc29493d2f3fc?source=copy_link#2f417ca468d780bab9a7cbb7198b2dce/>) (img width="1354" height="624" alt="image)]
+
 
 
 **Diseño de pruebas y Análisis de requisitos - Urban Routes**       
@@ -68,9 +66,7 @@ adaptabilidad, comunicación efectiva.
 
 **Habilidades tecnológicas utilizadas:**  Diseños de pruebas, partición de clases de equivalencia, análisis de valores límite, Google Sheets, modelado de flujos.
 
-<img width="1366" height="635" alt="image" src="https://github.com/user-attachments/assets/c5165f8c-7c8d-499f-a61b-8fa01d1d6f96" />
 
-<img width="1317" height="493" alt="image" src="https://github.com/user-attachments/assets/12ca4445-5747-4b91-bdaa-1a8eb1b8afe3" />
 
 
 
@@ -85,8 +81,7 @@ adaptabilidad, comunicación efectiva.
 
 **Habilidades tecnológicas utilizadas:**  Pruebas de UI, Pruebas de Cross-Browser, Jira y Google Sheets.
 
-<img width="1359" height="701" alt="image" src="https://github.com/user-attachments/assets/30bb46e0-5223-4ad5-9aef-5479629483ac" />
-<img width="1105" height="569" alt="image" src="https://github.com/user-attachments/assets/321462e5-9fa0-4144-9721-9882272156f9" />
+
 
 
 
@@ -102,8 +97,7 @@ adaptabilidad, comunicación efectiva.
 
 **Habilidades tecnológicas utilizadas:**  API Testing, Postman, HTTP, Jira
 
-<img width="1299" height="610" alt="image" src="https://github.com/user-attachments/assets/b994a596-ac60-46a6-954f-d32cfbe1ca90" />
-<img width="1360" height="643" alt="image" src="https://github.com/user-attachments/assets/380f2d2e-0cba-4375-a394-1d644dae72c1" />
+
 
 
 
