@@ -48,7 +48,7 @@ adaptabilidad, comunicación efectiva.
 - Ejecuté 24 pruebas manuales y de regresión que resultaron en la detección de discrepancias entre resultados esperados y actuales, usando casos de prueba predefinidos.
 - Reporté 6 defectos funcionales utilizando ID, títulos, pasos de reproducción y severidad.
 
-**Logro o impacto:** Fortalecí habilidades en testing funcional, verificando que la aplicación de Urban Routes funcione correctamente según los requisitos establecidos, reportando defectos para asegurar la calidad del software.
+**Logro o impacto:** El proyecto permitió validar correctamente los principales flujos funcionales de la aplicación y documentar defectos siguiendo buenas prácticas de QA, ayudando a garantizar que las funcionalidades previamente implementadas continuaran operando correctamente después de nuevos cambios, reduciendo el riesgo de regresiones funcionales.
 
 **Habilidades tecnológicas utilizadas:**  Testing Manual, Pruebas de regresión, Informes de errores, Google Sheets, Análisis de requisitos.
 
@@ -108,7 +108,7 @@ adaptabilidad, comunicación efectiva.
 
 
 ### Educación 
-* Administradora de Empresas, Aprobada- En proceso de certificación, Universidad del Valle 12/2025
+* Administradora de Empresas, Universidad del Valle 06/2026
 * Tecnóloga en Gestión de Negocios, Servicio Nacional de Aprendizaje (SENA) 12/2020
 * QA Engineer, TripleTen 05/2026
 * Inglés Does Work-Level 3, Servicio Nacional de Aprendizaje (SENA) 11/2025
